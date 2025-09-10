@@ -36,6 +36,7 @@ const App = () => {
       setMaxSelected(selected)
     }
     setVotes(copy)
+    
   }
   return (
     <div>
